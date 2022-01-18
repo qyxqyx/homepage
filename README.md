@@ -9,9 +9,9 @@ I am a lecturer at Neuroscience and Intelligent Media Institute [(NIMI)](http://
 
 ### Experience
 - In 2021, I received my Ph.D. degree from College of automation, Northwestern Polytechnical University of China.  
-- In 2020, I joined JD AI Research as an intern and worked with [Dr.Jinfeng Yi](https://jinfengyi.net/).  
-- In 2019, I joined AIBEE as an intern and worked with [Dr.Zitong Yu](https://scholar.google.com/citations?user=ziHejLwAAAAJ&hl=zh-CN) and [Mr.Zezheng Wang](https://scholar.google.com/citations?user=5VMNd7oAAAAJ&hl=zh-CN).  
-- In 2017, I joined JD Digital technology as an intern and worked with [Mr.Chenxu Zhao](https://scholar.google.com/citations?user=q07NiEAAAAAJ&hl=zh-CN).
+- In 2020, I joined JD AI Research as an research intern and worked with [Dr.Jinfeng Yi](https://jinfengyi.net/).  
+- In 2019, I joined AIBEE as an research intern and worked with [Dr.Zitong Yu](https://scholar.google.com/citations?user=ziHejLwAAAAJ&hl=zh-CN) and [Mr.Zezheng Wang](https://scholar.google.com/citations?user=5VMNd7oAAAAJ&hl=zh-CN).  
+- In 2017, I joined JD Digital technology as an research intern and worked with [Mr.Chenxu Zhao](https://scholar.google.com/citations?user=q07NiEAAAAAJ&hl=zh-CN).
 
 ### Hiring
 There are several positions for research intern and Master student. The ideal applicant is self-motivated and has strong skills in both mathematics and programming. Please email me with your CV if you are interested in the opportunities.
