@@ -28,7 +28,7 @@ There are several positions for research intern and Master student. The ideal ap
 - [Searching for Alignment in Face Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16415), **AAAI**, 2021, [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/16415/16222)  
   Xiaqing Xu, Qiang Meng, ***Yunxiao Qin***, Jianzhu Guo, Chenxu Zhao, Feng Zhou, Zhen Lei
 - [Prior-Knowledge and Attention-based Meta-Learning for Few-Shot Learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307383), **KBS**, 2021, [(PDF)](https://arxiv.org/pdf/1812.04955)  
-  ***Yunxiao Qin***, Weiguo Zhang, Chenxu Zhao, Zezheng Wang, Xiangyu zhu, Guojun Qi, Jingping Shi, Zhen Lei
+  ***Yunxiao Qin***, Weiguo Zhang, Chenxu Zhao, Zezheng Wang, Xiangyu zhu, etc.
 - [One-class adaptation face anti-spoofing with loss function search](https://www.sciencedirect.com/science/article/abs/pii/S0925231220313540), **Neurocomputing**, 2020  
   ***Yunxiao Qin***, Weiguo Zhang, Jingping Shi, Zezheng Wang, Longbin Yan
 - [Nas-fas: Static-dynamic central difference network search for face anti-spoofing](https://ieeexplore.ieee.org/abstract/document/9252183), **IEEE-TPAMI**, 2020, [(PDF)](https://arxiv.org/pdf/2011.02062)  
