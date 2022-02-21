@@ -24,7 +24,7 @@ There are several positions for research intern and Master student. The ideal ap
 - [Meta-teacher for Face Anti-Spoofing](https://ieeexplore.ieee.org/abstract/document/9462562), **IEEE-TPAMI**, 2021, [(PDF)](https://arxiv.org/pdf/2111.06638)  
   ***Yunxiao Qin***, Zitong Yu, Longbin Yan, Zezheng Wang, Chenxu Zhao, Zhen Lei
 - [Dual-Cross Central Difference Network for Face Anti-Spoofing](https://www.ijcai.org/proceedings/2021/177), **IJCAI**, 2021, [(PDF)](https://www.ijcai.org/proceedings/2021/0177.pdf)  
-  Zitong Yu, ***Yunxiao Qin^#***, Hengshuang Zhao, Xiaobai Li, Guoying Zhao
+  Zitong Yu, ***Yunxiao Qin***, Hengshuang Zhao, Xiaobai Li, Guoying Zhao
 - [Searching for Alignment in Face Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16415), **AAAI**, 2021, [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/16415/16222)  
   Xiaqing Xu, Qiang Meng, ***Yunxiao Qin***, Jianzhu Guo, Chenxu Zhao, Feng Zhou, Zhen Lei
 - [Prior-Knowledge and Attention-based Meta-Learning for Few-Shot Learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307383), **KBS**, 2021, [(PDF)](https://arxiv.org/pdf/1812.04955)  
@@ -36,7 +36,7 @@ There are several positions for research intern and Master student. The ideal ap
 - [Layer-Wise Adaptive Updating for Few-Shot Image Classification](https://ieeexplore.ieee.org/abstract/document/9250503), **IEEE-SPL**, 2020  
   ***Yunxiao Qin***, Weiguo Zhang, Zezheng Wang, Chenxu Zhao, Jingping Shi
 - [Auto-Fas: Searching Lightweight Networks for Face Anti-Spoofing](https://ieeexplore.ieee.org/abstract/document/9053587), **ICASSP**, 2020  
-  Zitong Yu, ***Yunxiao Qin***, Xiaqing Xu, Chenxu Zhao, Zezheng Wang, Zhen Lei, Guoying Zhao
+  Zitong Yu<sup>*</sup>, ***Yunxiao Qin<sup>*</sup>***, Xiaqing Xu, Chenxu Zhao, Zezheng Wang, Zhen Lei, Guoying Zhao
 - [Learning meta model for zero-and few-shot face anti-spoofing](https://ojs.aaai.org/index.php/AAAI/article/view/6866), **AAAI**, 2020, [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/6866/6720)  
   ***Yunxiao Qin***, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, Zitong Yu, etc.
 - [Deep spatial gradient and temporal depth learning for face anti-spoofing](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Deep_Spatial_Gradient_and_Temporal_Depth_Learning_for_Face_Anti-Spoofing_CVPR_2020_paper.html), **CVPR**, 2020, [(PDF)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Spatial_Gradient_and_Temporal_Depth_Learning_for_Face_Anti-Spoofing_CVPR_2020_paper.pdf)  
