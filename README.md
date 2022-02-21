@@ -3,7 +3,7 @@
 ### About me
 
 I am a lecturer at Neuroscience and Intelligent Media Institute [(NIMI)](http://www.1r3.com/bs2/index.html), Communication University of China (CUC). My research interests include:
-- Machine Learning: Meta-learning, continual learning, adversarial attack, and neural network robustness. 
+- Machine Learning: Meta-learning, continual learning, adversarial attack, neural network robustness, and reinforcement learning. 
 - Computer vision : Few-shot image classification, face anti-spoofing.
 - Neuroscience: Brain-inspired artificial intelligence.
 
