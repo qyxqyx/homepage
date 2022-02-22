@@ -22,10 +22,10 @@ There are several positions for research intern and Master student. The ideal ap
   
 - [Training Meta-Surrogate Model for Transferable Adversarial Attack](https://arxiv.org/abs/2109.01983), Arxiv, 2021, [(PDF)](https://arxiv.org/pdf/2109.01983) 
   ***Yunxiao Qin***, Yuanhao Xiong, Jinfeng Yi, Cho-Jui Hsieh
-- [Deep learning for face anti-spoofing: A survey](https://arxiv.org/abs/2109.01983), IEEE-TPAMI（in major revising）, 2021, [(PDF)](https://arxiv.org/pdf/2106.14948) 
+- [Deep learning for face anti-spoofing: A survey](https://arxiv.org/abs/2109.01983), **IEEE-TPAMI**（in major revising）, 2021, [(PDF)](https://arxiv.org/pdf/2106.14948)   
   Zitong Yu, ***Yunxiao Qin***, Xiaobai Li, Chenxu Zhao, Zhen Lei, Guoying Zhao
   
-- [Meta-teacher for Face Anti-Spoofing](https://ieeexplore.ieee.org/abstract/document/9462562), **IEEE-TPAMI**, 2021, [(PDF)](https://arxiv.org/pdf/2111.06638) 
+- [Meta-teacher for Face Anti-Spoofing](https://ieeexplore.ieee.org/abstract/document/9462562), **IEEE-TPAMI**, 2021, [(PDF)](https://arxiv.org/pdf/2111.06638)   
   ***Yunxiao Qin***, Zitong Yu, Longbin Yan, Zezheng Wang, Chenxu Zhao, Zhen Lei
 - [Dual-Cross Central Difference Network for Face Anti-Spoofing](https://www.ijcai.org/proceedings/2021/177), **IJCAI**, 2021, [(PDF)](https://www.ijcai.org/proceedings/2021/0177.pdf)  
   Zitong Yu, ***Yunxiao Qin***, Hengshuang Zhao, Xiaobai Li, Guoying Zhao
