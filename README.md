@@ -17,10 +17,10 @@ I am a lecturer at Neuroscience and Intelligent Media Institute [(NIMI)](http://
 There are several positions for research intern and Master student. The ideal applicant is self-motivated and has strong skills in both mathematics and programming. Please email me with your CV if you are interested in the opportunities.
 
 ### Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=EMEy3gwAAAAJ&hl=zh-CN)
-- [Adversarial Attack across Datasets](https://arxiv.org/abs/2110.07718), Arxiv, 2021, [(PDF)](https://arxiv.org/pdf/2110.07718)  
+- [Adversarial Attack across Datasets](https://arxiv.org/abs/2110.07718), Arxiv, 2021, [(PDF)](https://arxiv.org/pdf/2110.07718)    
   ***Yunxiao Qin***, Yuanhao Xiong, Jinfeng Yi, Cho-Jui Hsieh  
   
-- [Training Meta-Surrogate Model for Transferable Adversarial Attack](https://arxiv.org/abs/2109.01983), Arxiv, 2021, [(PDF)](https://arxiv.org/pdf/2109.01983) 
+- [Training Meta-Surrogate Model for Transferable Adversarial Attack](https://arxiv.org/abs/2109.01983), Arxiv, 2021, [(PDF)](https://arxiv.org/pdf/2109.01983)   
   ***Yunxiao Qin***, Yuanhao Xiong, Jinfeng Yi, Cho-Jui Hsieh
 - [Deep learning for face anti-spoofing: A survey](https://arxiv.org/abs/2109.01983), **IEEE-TPAMI**（in major revising）, 2021, [(PDF)](https://arxiv.org/pdf/2106.14948)   
   Zitong Yu, ***Yunxiao Qin***, Xiaobai Li, Chenxu Zhao, Zhen Lei, Guoying Zhao
@@ -32,7 +32,7 @@ There are several positions for research intern and Master student. The ideal ap
 - [Searching for Alignment in Face Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16415), **AAAI**, 2021, [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/16415/16222)  
   Xiaqing Xu, Qiang Meng, ***Yunxiao Qin***, Jianzhu Guo, Chenxu Zhao, Feng Zhou, Zhen Lei
 - [Prior-Knowledge and Attention-based Meta-Learning for Few-Shot Learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307383), **KBS**, 2021, [(PDF)](https://arxiv.org/pdf/1812.04955)  
-  ***Yunxiao Qin***, Weiguo Zhang, Chenxu Zhao, Zezheng Wang, Xiangyu zhu, etc.
+  ***Yunxiao Qin***, Weiguo Zhang, Chenxu Zhao, Zezheng Wang, Xiangyu zhu, et al..
 - [One-class adaptation face anti-spoofing with loss function search](https://www.sciencedirect.com/science/article/abs/pii/S0925231220313540), **Neurocomputing**, 2020  
   ***Yunxiao Qin***, Weiguo Zhang, Jingping Shi, Zezheng Wang, Longbin Yan
 - [Nas-fas: Static-dynamic central difference network search for face anti-spoofing](https://ieeexplore.ieee.org/abstract/document/9252183), **IEEE-TPAMI**, 2020, [(PDF)](https://arxiv.org/pdf/2011.02062)  
@@ -42,11 +42,11 @@ There are several positions for research intern and Master student. The ideal ap
 - [Auto-Fas: Searching Lightweight Networks for Face Anti-Spoofing](https://ieeexplore.ieee.org/abstract/document/9053587), **ICASSP**, 2020  
   Zitong Yu<sup>#</sup>, ***Yunxiao Qin***<sup>#</sup>, Xiaqing Xu, Chenxu Zhao, Zezheng Wang, Zhen Lei, Guoying Zhao
 - [Learning meta model for zero-and few-shot face anti-spoofing](https://ojs.aaai.org/index.php/AAAI/article/view/6866), **AAAI**, 2020, [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/6866/6720)  
-  ***Yunxiao Qin***, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, Zitong Yu, etc.
+  ***Yunxiao Qin***, Chenxu Zhao, Xiangyu Zhu, Zezheng Wang, Zitong Yu, et al..
 - [Deep spatial gradient and temporal depth learning for face anti-spoofing](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Deep_Spatial_Gradient_and_Temporal_Depth_Learning_for_Face_Anti-Spoofing_CVPR_2020_paper.html), **CVPR**, 2020, [(PDF)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Spatial_Gradient_and_Temporal_Depth_Learning_for_Face_Anti-Spoofing_CVPR_2020_paper.pdf)  
-  Zezheng Wang, Zitong Yu, Chenxu Zhao, Xiangyu Zhu, ***Yunxiao Qin***, etc.
+  Zezheng Wang, Zitong Yu, Chenxu Zhao, Xiangyu Zhu, ***Yunxiao Qin***, et al..
 - [Searching Central Difference Convolutional Networks for Face Anti-Spoofing](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Searching_Central_Difference_Convolutional_Networks_for_Face_Anti-Spoofing_CVPR_2020_paper.html), **CVPR**, 2020, [(PDF)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Searching_Central_Difference_Convolutional_Networks_for_Face_Anti-Spoofing_CVPR_2020_paper.pdf)  
-  Zitong Yu, Chenxu Zhao, Zezheng Wang, ***Yunxiao Qin***, Zhuo Su, etc.
+  Zitong Yu, Chenxu Zhao, Zezheng Wang, ***Yunxiao Qin***, Zhuo Su, et al..
 
 ### Email
 - qinyunxiao@cuc.edu.cn
