@@ -19,11 +19,11 @@ There are several positions for research intern and Master student. The ideal ap
 ### Selected Publications [[Google Scholar]](https://scholar.google.com/citations?user=EMEy3gwAAAAJ&hl=zh-CN)
 - [Training Meta-Surrogate Model for Transferable Adversarial Attack](https://arxiv.org/abs/2109.01983), **AAAI**, 2023, [(PDF)](https://arxiv.org/pdf/2109.01983)   
   ***Yunxiao Qin***, Yuanhao Xiong, Jinfeng Yi, Cho-Jui Hsieh
-- [Consistency Regularization for Deep Face Anti-Spoofing](https://ieeexplore.ieee.org/abstract/document/10012352), IEEE-TIFS, 2023, [(PDF)](https://arxiv.org/pdf/2111.12320)
+- [Consistency Regularization for Deep Face Anti-Spoofing](https://ieeexplore.ieee.org/abstract/document/10012352), IEEE-TIFS, 2023, [(PDF)](https://arxiv.org/pdf/2111.12320)      
   Zezheng Wang, Zitong Yu, Xun Wang, ***Yunxiao Qin***, Jiahong Li, Chenxu Zhao, Zhen Lei, Xin Liu, Size Li, Zhongyuan Wang
 - [Deep learning for face anti-spoofing: A survey](https://arxiv.org/abs/2106.14948), **IEEE-TPAMI**, 2022, [(PDF)](https://arxiv.org/pdf/2106.14948)   
   Zitong Yu, ***Yunxiao Qin***, Xiaobai Li, Chenxu Zhao, Zhen Lei, Guoying Zhao
-- [Scale-Balanced Real-Time Object Detection with Varying Input-Image Resolution](https://ieeexplore.ieee.org/abstract/document/9855518), **IEEE-TCSVT**, 2022.
+- [Scale-Balanced Real-Time Object Detection with Varying Input-Image Resolution](https://ieeexplore.ieee.org/abstract/document/9855518), **IEEE-TCSVT**, 2022.    
   Longbin Yan, ***Yunxiao Qin***, Jie Chen
  - [Adversarial Attack across Datasets](https://arxiv.org/abs/2110.07718), Arxiv, 2021, [(PDF)](https://arxiv.org/pdf/2110.07718)    
   ***Yunxiao Qin***, Yuanhao Xiong, Jinfeng Yi, Cho-Jui Hsieh  
